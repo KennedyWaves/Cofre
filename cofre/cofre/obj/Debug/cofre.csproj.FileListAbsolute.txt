@@ -1,0 +1,12 @@
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\bin\Debug\cofre.exe.config
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\bin\Debug\cofre.exe
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\bin\Debug\cofre.pdb
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\obj\Debug\cofre.Form1.resources
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\obj\Debug\cofre.Properties.Resources.resources
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\obj\Debug\cofre.csproj.GenerateResource.Cache
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\obj\Debug\cofre.exe
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\obj\Debug\cofre.pdb
+C:\Users\WAVES\documents\visual studio 2013\Projects\cofre\cofre\obj\Debug\cofre.csprojResolveAssemblyReference.cache
+D:\Projects\cofre\cofre\bin\Debug\cofre.exe.config
+D:\Projects\cofre\cofre\obj\Debug\cofre.exe
+D:\Projects\cofre\cofre\obj\Debug\cofre.pdb
